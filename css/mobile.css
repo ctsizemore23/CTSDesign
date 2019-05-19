@@ -1,0 +1,121 @@
+@charset "utf-8";
+
+.bw {
+	padding-left: 15px;
+}
+
+.logo {
+	/*display: none;*/
+}
+#bgimage {
+	display: none;
+}
+#divider {
+	margin-top: 20px;
+	/*display: none;*/
+}
+.header {
+	/*display: none;*/
+	position: inherit;
+}
+.container {
+	width: 320px;
+	height: auto;
+	margin: 0 auto;
+}
+.content {
+	padding: 0;
+	margin: 0 auto;
+}
+#work {
+	padding-top: 40px;
+}
+
+.about-content {
+	float: none;
+	width: 100%;
+}
+.big-text {
+	font-size: 38px;
+	line-height: 44px;
+}
+.big-text-2 {
+	font-size: 49px;
+}
+
+#slideshow {
+	position: relative;
+	width: 320px;
+	height: 350px;
+	float: none;
+	margin-left: 0;
+	margin-top: 20px;
+}
+.slideshow-img {
+	max-height: 100%;
+	max-width: 100%;
+}
+.contact-box {
+	border: none;
+}
+.email-me {
+	margin-top: 40px;
+	width: 320px;
+}
+.call-me {
+	margin: 0 auto;
+	background-color: #666;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	width: 320px;
+	padding: 10px 0;
+	margin-bottom: 40px;
+	color: #fafafa;
+	text-align: center;
+	text-transform: uppercase;
+	visibility: visible;
+}
+.contact-box {
+	width: 320px;
+	padding: 0;
+}
+.contact-box-left {
+	width: 320px;
+	padding: 0;
+}
+.form-box {
+	width: 260px;
+	margin: 20px 0;
+}
+.subscribe-button {
+	float: none;
+	margin: 20px 0 100px 0;
+	width: 260px;
+	height: 50px;
+}
+.social-align {
+	float: none;
+ margin-top: 5px;
+}
+img.project-image {
+	max-width: 100%;
+  max-height: 100%;
+}
+ul#nav {
+	display: none;
+}
+.project-description {
+	width: 300px;
+	height: auto;
+	margin: 0 auto;
+}
+
+.instagram-image {
+	width: 150px;
+	height: 150px;
+	margin: 5px;
+	-webkit-box-shadow:  1px 1px 3px 1px rgba(0, 0, 0, .4);
+        
+        box-shadow:  1px 1px 3px 1px rgba(0, 0, 0, .4);
+}
+
